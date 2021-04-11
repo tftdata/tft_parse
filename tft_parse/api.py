@@ -47,6 +47,8 @@ class MatchDto(BaseDto):
         self.data = data
         self.metadata: MetadataDto = MetadataDto(data['metadata'])
         self.info: InfoDto = InfoDto(data['info'])
+        self.patch: str = str(self.info.patch)
+        self.tft_set_number: str = str(self.info.tft_set_number)
 
     def region(self) -> str:
         """Match region
@@ -57,6 +59,14 @@ class MatchDto(BaseDto):
              Region matches is played on
         """
         return self.metadata.region
+
+    def is_ranked(self) -> bool:
+        """Is match ranked
+
+        Returns:
+            bool: True if match is ranked
+        """
+        return self.info.is_rank()
 
 
 class MetadataDto(BaseDto):
