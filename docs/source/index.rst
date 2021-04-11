@@ -6,14 +6,10 @@
 tft_parse
 ==========
 
-This is a parser for Teamfigt Tactics (TFT) match history. The purpose of this library is
-to quickly get match related info.
+Implementation of TFT's match api. The purpose of this library is to quickly get info from match's json.
 
-**Example**::
-    >>> match = tft_parse.MatchDto(data)
-    >>> match.metadata.region
-    'OC1'
-    >>>print(match.metadata.__dict__)
+.. include:: ../../README.rst
+   :start-after: Example
 
 .. toctree::
    :maxdepth: 2
