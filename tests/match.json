@@ -1,0 +1,1328 @@
+{
+    "metadata": {
+        "data_version": "5",
+        "match_id": "OC1_404285734",
+        "participants": [
+            "ZYfDCQRGxnO57eSHVS2eNhyRliIRYhxC49_TWkW_mS6g9T4SwvoHzYwiKIp_On_yDBNk67i8Rg-jrA",
+            "EpETU-1OTwfcuX_NNeY4cA1C1LfZ7lUmADBL_bVsrq8C23Od6lz4qEYqGNYNjkcf4YAevwhKsla58A",
+            "xpglQSK0tWq4zjD71jIBli6o7uVx1DblPFJlRueGddEU1DCjmAfyqEePU8t_e2q4dlwKz76CcTr5LA",
+            "3XQ8uz73RZF4k-uSa3nloGTM9eouoJ8iQv9E9I1zFndGkKkqxf_AxqwULrTOPHxszrt__xDdpggIsw",
+            "fFt4DayBvgD1ocZ4qjbDZx7Zo6mTUPHg98m7x5mmrstlDeMqQepib0EP_rPFBAyq_8Dacb0PJTu_Mg",
+            "16p_jS0P_2abAh6y_RInV7hrBCrsKkPjmm_wSDIUZ1mnG1vssaVtIFqKg6cmMH28rjHBdMb8xbSq8Q",
+            "fHC9iyAOGwiCJRhx7lHVyHmocpp5QKMI9b_wSzpjSgA7dcWJsoRX5OyaE1mHRPS_IiKbObDe5-WIGg",
+            "CrFPXuQkr2qpTiHrkWxRDcK4KPmNztOmPkj8UdoRQHT-cHFwW99SGbCdwGlN60iKAyKagFwheNO2_Q"
+        ]
+    },
+    "info": {
+        "game_datetime": 1612872643267,
+        "game_length": 2020.2835693359375,
+        "game_version": "Version 11.3.357.5376 (Feb 03 2021/17:03:01) [PUBLIC] <Releases/11.3>",
+        "participants": [
+            {
+                "companion": {
+                    "content_ID": "78fc7cd6-41b4-401a-a966-d8ed1c907566",
+                    "skin_ID": 13,
+                    "species": "PetDSSquid"
+                },
+                "gold_left": 1,
+                "last_round": 35,
+                "level": 8,
+                "placement": 3,
+                "players_eliminated": 2,
+                "puuid": "ZYfDCQRGxnO57eSHVS2eNhyRliIRYhxC49_TWkW_mS6g9T4SwvoHzYwiKIp_On_yDBNk67i8Rg-jrA",
+                "time_eliminated": 1942.9898681640625,
+                "total_damage_to_players": 121,
+                "traits": [
+                    {
+                        "name": "Cultist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Divine",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Duelist",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Fortune",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Keeper",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Adept",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Elderwood",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Executioner",
+                        "num_units": 4,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Ninja",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Spirit",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Vanguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Yuumi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4b_Kindred",
+                        "items": [
+                            29
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Aatrox",
+                        "items": [
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sejuani",
+                        "items": [
+                            37,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Kayle",
+                        "items": [
+                            22,
+                            69,
+                            28
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Xayah",
+                        "chosen": "Set4_Executioner",
+                        "items": [
+                            17,
+                            23,
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Shen",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_LeeSin",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "faaf16bc-0f78-4eb8-8262-d5fe5456bd27",
+                    "skin_ID": 29,
+                    "species": "PetGrumpyLion"
+                },
+                "gold_left": 1,
+                "last_round": 27,
+                "level": 7,
+                "placement": 7,
+                "players_eliminated": 0,
+                "puuid": "EpETU-1OTwfcuX_NNeY4cA1C1LfZ7lUmADBL_bVsrq8C23Od6lz4qEYqGNYNjkcf4YAevwhKsla58A",
+                "time_eliminated": 1519.98974609375,
+                "total_damage_to_players": 41,
+                "traits": [
+                    {
+                        "name": "Fortune",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Adept",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set4_Dragonsoul",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Fabled",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set4_Mystic",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Ninja",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Spirit",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Vanguard",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Braum",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Nautilus",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Yuumi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Neeko",
+                        "items": [
+                            13,
+                            37,
+                            39
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sejuani",
+                        "items": [
+                            79
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Shen",
+                        "items": [
+                            99,
+                            7,
+                            56
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_ChoGath",
+                        "chosen": "Set4_Fabled",
+                        "items": [
+                            66,
+                            27
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "0ae4c054-4200-49b3-8fc0-faede762417b",
+                    "skin_ID": 21,
+                    "species": "PetBellswayer"
+                },
+                "gold_left": 27,
+                "last_round": 37,
+                "level": 9,
+                "placement": 1,
+                "players_eliminated": 1,
+                "puuid": "xpglQSK0tWq4zjD71jIBli6o7uVx1DblPFJlRueGddEU1DCjmAfyqEePU8t_e2q4dlwKz76CcTr5LA",
+                "time_eliminated": 2011.830322265625,
+                "total_damage_to_players": 181,
+                "traits": [
+                    {
+                        "name": "Boss",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Cultist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Duelist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Emperor",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Keeper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Adept",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set4_Daredevil",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set4_Exile",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Slayer",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Spirit",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Sharpshooter",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Warlord",
+                        "num_units": 4,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Nidalee",
+                        "chosen": "Sharpshooter",
+                        "items": [
+                            39,
+                            14,
+                            12
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT4_JarvanIV",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Teemo",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sivir",
+                        "items": [
+                            17,
+                            23
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Tryndamere",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sett",
+                        "items": [
+                            12
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Azir",
+                        "items": [
+                            37
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Samira",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Yone",
+                        "items": [
+                            55,
+                            66,
+                            57
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "1388361c-a31c-499a-826f-26efdc8c1dbd",
+                    "skin_ID": 27,
+                    "species": "PetSpiritFox"
+                },
+                "gold_left": 0,
+                "last_round": 34,
+                "level": 8,
+                "placement": 4,
+                "players_eliminated": 0,
+                "puuid": "3XQ8uz73RZF4k-uSa3nloGTM9eouoJ8iQv9E9I1zFndGkKkqxf_AxqwULrTOPHxszrt__xDdpggIsw",
+                "time_eliminated": 1890.5926513671875,
+                "total_damage_to_players": 92,
+                "traits": [
+                    {
+                        "name": "Fortune",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Keeper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set4_Dragonsoul",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Elderwood",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Executioner",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Mage",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Vanguard",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Rakan",
+                        "items": [
+                            57
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT4_Annie",
+                        "items": [
+                            25,
+                            25
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT4_Lulu",
+                        "chosen": "Set4_Mage",
+                        "items": [
+                            4
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT4_Nunu",
+                        "items": [
+                            77
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Veigar",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sejuani",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Xayah",
+                        "items": [
+                            49,
+                            23
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_AurelionSol",
+                        "items": [
+                            68,
+                            13,
+                            39
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "348a0019-c6f2-4174-9edb-4f967213b838",
+                    "skin_ID": 6,
+                    "species": "PetAoShin"
+                },
+                "gold_left": 0,
+                "last_round": 31,
+                "level": 8,
+                "placement": 6,
+                "players_eliminated": 0,
+                "puuid": "fFt4DayBvgD1ocZ4qjbDZx7Zo6mTUPHg98m7x5mmrstlDeMqQepib0EP_rPFBAyq_8Dacb0PJTu_Mg",
+                "time_eliminated": 1732.696533203125,
+                "total_damage_to_players": 52,
+                "traits": [
+                    {
+                        "name": "Boss",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Fortune",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set4_Dragonsoul",
+                        "num_units": 7,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Elderwood",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Mage",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Slayer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Vanguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Brand",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Braum",
+                        "chosen": "Set4_Dragonsoul",
+                        "items": [
+                            7
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Lulu",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Shyvana",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sejuani",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Olaf",
+                        "items": [
+                            15,
+                            26,
+                            11
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_AurelionSol",
+                        "items": [
+                            39,
+                            46,
+                            22
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sett",
+                        "items": [
+                            38,
+                            49,
+                            77
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "815a37f3-2cba-487c-bda9-6f49efb93384",
+                    "skin_ID": 6,
+                    "species": "PetPenguKnight"
+                },
+                "gold_left": 0,
+                "last_round": 27,
+                "level": 7,
+                "placement": 8,
+                "players_eliminated": 0,
+                "puuid": "16p_jS0P_2abAh6y_RInV7hrBCrsKkPjmm_wSDIUZ1mnG1vssaVtIFqKg6cmMH28rjHBdMb8xbSq8Q",
+                "time_eliminated": 1483.0914306640625,
+                "total_damage_to_players": 43,
+                "traits": [
+                    {
+                        "name": "Divine",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Keeper",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Adept",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Dragonsoul",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Elderwood",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Enlightened",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Executioner",
+                        "num_units": 3,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Spirit",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Syphoner",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Irelia",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Yuumi",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4b_Kindred",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Kayle",
+                        "items": [
+                            79,
+                            49,
+                            22
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Xayah",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4b_Morgana",
+                        "items": [
+                            17,
+                            37,
+                            35
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Swain",
+                        "items": [
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "969b1b5f-3e5d-44fd-bfa3-1aa798c4b73a",
+                    "skin_ID": 20,
+                    "species": "PetGhosty"
+                },
+                "gold_left": 2,
+                "last_round": 33,
+                "level": 9,
+                "placement": 5,
+                "players_eliminated": 0,
+                "puuid": "fHC9iyAOGwiCJRhx7lHVyHmocpp5QKMI9b_wSzpjSgA7dcWJsoRX5OyaE1mHRPS_IiKbObDe5-WIGg",
+                "time_eliminated": 1833.5435791015625,
+                "total_damage_to_players": 69,
+                "traits": [
+                    {
+                        "name": "Boss",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Divine",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Duelist",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Keeper",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Adept",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set4_Elderwood",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Enlightened",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Executioner",
+                        "num_units": 3,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Spirit",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Fiora",
+                        "items": [
+                            35
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Jax",
+                        "items": [
+                            37,
+                            66
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Irelia",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Yuumi",
+                        "chosen": "Set4_Spirit",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4b_Kindred",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Kayle",
+                        "items": [
+                            15,
+                            22,
+                            28
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Xayah",
+                        "items": [
+                            17,
+                            46
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sett",
+                        "items": [
+                            15,
+                            29
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_LeeSin",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "1eeb3ef6-0d35-415b-95ed-718f005ee4e0",
+                    "skin_ID": 21,
+                    "species": "PetChoncc"
+                },
+                "gold_left": 10,
+                "last_round": 37,
+                "level": 8,
+                "placement": 2,
+                "players_eliminated": 1,
+                "puuid": "CrFPXuQkr2qpTiHrkWxRDcK4KPmNztOmPkj8UdoRQHT-cHFwW99SGbCdwGlN60iKAyKagFwheNO2_Q",
+                "time_eliminated": 2011.830322265625,
+                "total_damage_to_players": 148,
+                "traits": [
+                    {
+                        "name": "Cultist",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Fortune",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Daredevil",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set4_Dragonsoul",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set4_Slayer",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Syphoner",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set4_Vanguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Sharpshooter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT4_Tristana",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Brand",
+                        "items": [],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT4_Pyke",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Aatrox",
+                        "items": [
+                            35,
+                            55
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Sejuani",
+                        "items": [
+                            46
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Olaf",
+                        "chosen": "Set4_Dragonsoul",
+                        "items": [
+                            11,
+                            15,
+                            26
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Samira",
+                        "items": [
+                            9004,
+                            79,
+                            38
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT4_Swain",
+                        "items": [
+                            57,
+                            49,
+                            49
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            }
+        ],
+        "queue_id": 1100,
+        "tft_mode": "standard",
+        "tft_set_number": 4
+    },
+    "region": "OC1",
+    "patch": "11.3",
+    "queue": "Rank",
+    "placements": {
+        "3": "ZYfDCQRGxnO57eSHVS2eNhyRliIRYhxC49_TWkW_mS6g9T4SwvoHzYwiKIp_On_yDBNk67i8Rg-jrA",
+        "7": "EpETU-1OTwfcuX_NNeY4cA1C1LfZ7lUmADBL_bVsrq8C23Od6lz4qEYqGNYNjkcf4YAevwhKsla58A",
+        "1": "xpglQSK0tWq4zjD71jIBli6o7uVx1DblPFJlRueGddEU1DCjmAfyqEePU8t_e2q4dlwKz76CcTr5LA",
+        "4": "3XQ8uz73RZF4k-uSa3nloGTM9eouoJ8iQv9E9I1zFndGkKkqxf_AxqwULrTOPHxszrt__xDdpggIsw",
+        "6": "fFt4DayBvgD1ocZ4qjbDZx7Zo6mTUPHg98m7x5mmrstlDeMqQepib0EP_rPFBAyq_8Dacb0PJTu_Mg",
+        "8": "16p_jS0P_2abAh6y_RInV7hrBCrsKkPjmm_wSDIUZ1mnG1vssaVtIFqKg6cmMH28rjHBdMb8xbSq8Q",
+        "5": "fHC9iyAOGwiCJRhx7lHVyHmocpp5QKMI9b_wSzpjSgA7dcWJsoRX5OyaE1mHRPS_IiKbObDe5-WIGg",
+        "2": "CrFPXuQkr2qpTiHrkWxRDcK4KPmNztOmPkj8UdoRQHT-cHFwW99SGbCdwGlN60iKAyKagFwheNO2_Q"
+    }
+}
