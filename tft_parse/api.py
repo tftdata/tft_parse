@@ -48,6 +48,16 @@ class MatchDto(BaseDto):
         self.metadata: MetadataDto = MetadataDto(data['metadata'])
         self.info: InfoDto = InfoDto(data['info'])
 
+    def region(self) -> str:
+        """Match region
+
+        Same function as self.metadata.region
+
+        Returns:
+             Region matches is played on
+        """
+        return self.metadata.region
+
 
 class MetadataDto(BaseDto):
     """Implementation of Metadata
@@ -70,6 +80,21 @@ class MetadataDto(BaseDto):
         self.participants: list[str] = data['participants']
         self.region = self.get_region()
         self.route_region = self.get_route_region()
+
+    def get_match_num(self) -> str:
+        """Get match's number
+
+        Returns:
+            Match number (without region)
+        """
+        match_regex = re.compile(r'\_(.*?)')
+        match = re.findall(match_regex, self.match_id)
+
+        # Check if there's any match
+        if len(match) > 0:
+            return match[0]
+        else:
+            return None
 
     def get_region(self) -> str:
         """Get match's region
